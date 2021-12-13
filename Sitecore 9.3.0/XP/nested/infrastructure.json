@@ -73,7 +73,7 @@
     "sitecoreSKU": {
       "type": "string",
       "allowedValues": [ "Extra Small", "Small", "Medium", "Large", "Extra Large" ],
-      "defaultValue": "Extra Small",
+      "defaultValue": "Large",
       "metadata": {
         "description": "Sitecore SKU controls the sizes and service levels of the provisioned resources"
       }
@@ -175,7 +175,7 @@
     },
     "applicationInsightsLocation": {
       "type": "string",
-      "defaultValue": "East US"
+      "defaultValue": "Canada Central"
     },
     "applicationInsightsPricePlan": {
       "type": "string",
