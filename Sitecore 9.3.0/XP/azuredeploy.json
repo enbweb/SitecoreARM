@@ -386,7 +386,7 @@
     },
     "applicationInsightsLocation": {
       "type": "string",
-      "defaultValue": "canadacentral"
+      "defaultValue": "Canada Central"
     },
     "storeSitecoreCountersInApplicationInsights": {
       "type": "bool",
