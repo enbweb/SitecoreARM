@@ -471,7 +471,7 @@
             "SkuCapacity": 1
           },
           "repHostingPlan": {
-            "SkuName": "S2",
+            "SkuName": "P1V3",
             "SkuCapacity": 1
           },
           "repHostingPlanIsolated": {
@@ -532,7 +532,7 @@
         },
         "Large": {
           "siHostingPlan": {
-            "SkuName": "S2",
+            "SkuName": "P1V3",
             "SkuCapacity": 1
           },
           "siHostingPlanIsolated": {
@@ -540,7 +540,7 @@
             "SkuCapacity": 1
           },
           "cmHostingPlan": {
-            "SkuName": "S3",
+            "SkuName": "P2V2",
             "SkuCapacity": 1
           },
           "cmHostingPlanIsolated": {
@@ -548,7 +548,7 @@
             "SkuCapacity": 1
           },
           "cdHostingPlan": {
-            "SkuName": "S3",
+            "SkuName": "P2V2",
             "SkuCapacity": 4
           },
           "cdHostingPlanIsolated": {
@@ -556,7 +556,7 @@
             "SkuCapacity": 2
           },
           "prcHostingPlan": {
-            "SkuName": "S2",
+            "SkuName": "P1V3",
             "SkuCapacity": 1
           },
           "prcHostingPlanIsolated": {
@@ -564,7 +564,7 @@
             "SkuCapacity": 1
           },
           "repHostingPlan": {
-            "SkuName": "S2",
+            "SkuName": "P1V3",
             "SkuCapacity": 1
           },
           "repHostingPlanIsolated": {
