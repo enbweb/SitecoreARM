@@ -198,7 +198,7 @@
         },
         "Medium": {
           "xcBasicHostingPlan": {
-            "SkuName": "S2",
+            "SkuName": "P1V3",
             "SkuCapacity": 1
           },
           "xcBasicHostingPlanIsolated": {
@@ -206,7 +206,7 @@
             "SkuCapacity": 1
           },
           "xcResourceIntensiveHostingPlan": {
-            "SkuName": "S3",
+            "SkuName": "P2V2",
             "SkuCapacity": 1
           },
           "xcResourceIntensiveHostingPlanIsolated": {
